@@ -1,4 +1,6 @@
 # File-Maker
+## DISCLIAIMER: We're currently making our own scripts. We're using the RiiConnect24 scripts as a placeholder until they're done.
+
 [![License](https://img.shields.io/github/license/riiconnect24/file-maker.svg?style=flat-square)](http://www.gnu.org/licenses/agpl-3.0)
 [![Discord](https://img.shields.io/discord/206934458954153984.svg?style=flat-square)](https://discord.com/invite/b4Y7jfD)
 
